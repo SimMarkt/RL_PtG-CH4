@@ -47,8 +47,10 @@ git clone https://github.com/yourusername/project-name.git
 # Navigate to the project directory
 cd project-name
 
-# Install dependencies
-npm install
+---
 
-# Start the application
-npm start
+### License
+
+This project is licensed under [MIT License](LICENSE).
+
+---
