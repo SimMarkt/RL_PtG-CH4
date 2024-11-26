@@ -41,12 +41,19 @@ Detailed steps to set up the project on a local environment:
 
 ```bash
 # Clone the repository
-git clone https://github.com/SimMarkt/RL_PtG-CH4.git
+git clone https://github.com/SimMarkt/RL_PtG.git
 
 # Navigate to the project directory
-cd RL_PtG-CH4
+cd RL_PtG
 
 ```
+
+Afterwards, create a new Python virtual environment in the project folder and install the packages in the requirements.txt.
+Note that Python 3.10 or a newer Version is required to run the code.
+After installing all Python packages, the code can be run by using the rl_main_TQC_hpc.py file.
+Conflict maain
+
+Conflict sidebranch again
 
 ---
 
